@@ -1,0 +1,20 @@
+Q ant
+W ant
+
+boarder can go and dirt which need to dig
+Starting area is x wide
+
+change so if on edge can't move that way.
+
+Queen ant auto spawns 5 base ant egg every 5 turns, and hatches 5 turns later
+
+Click Drag to move map
+
+Each dirt has a chance to contain water for worker ant.
+Worker ant has max capacity of 40 fullness. 
+If goes to zero worker ant dies.
+There will eventually be crop for worker ants to get supplies from.
+
+Queen ant eat dirt which worker ants bring back. 
+Queen ant has max capacity of 80 fullness, goes one down each turn.
+If goes to zero queen ant dies
